@@ -1,0 +1,6 @@
+@MijnGeweldigeAPI.WebApi_HostAddress = http://localhost:5037
+
+GET {{MijnGeweldigeAPI.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

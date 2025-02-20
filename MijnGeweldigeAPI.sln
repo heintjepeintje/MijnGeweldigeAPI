@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MijnGeweldigeAPI.WebApi", "MijnGeweldigeAPI.WebApi\MijnGeweldigeAPI.WebApi.csproj", "{29E9DD75-6E74-404F-BFAF-5BCBCBC0F6DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MijnGeweldigeAPI.Tests", "MijnGeweldigeAPI.Tests\MijnGeweldigeAPI.Tests.csproj", "{F1FCD304-7A80-4931-B417-A361231448CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29E9DD75-6E74-404F-BFAF-5BCBCBC0F6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E9DD75-6E74-404F-BFAF-5BCBCBC0F6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E9DD75-6E74-404F-BFAF-5BCBCBC0F6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E9DD75-6E74-404F-BFAF-5BCBCBC0F6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FCD304-7A80-4931-B417-A361231448CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FCD304-7A80-4931-B417-A361231448CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FCD304-7A80-4931-B417-A361231448CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FCD304-7A80-4931-B417-A361231448CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
